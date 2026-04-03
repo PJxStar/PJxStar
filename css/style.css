@@ -1,0 +1,122 @@
+.nav-link:link {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bonheur-royale-regular {
+  font-family: "Bonheur Royale", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-link:visited {
+
+color: #ffffff;
+
+}
+
+.nav-link:hover {
+
+color: #7e0808;
+
+}
+
+.bg-custom {
+
+background-color: #000000;
+
+}
+
+.footer{
+
+    background-color: #000000;
+    color:#ffffff;
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.bi{
+
+    color:#7e0808;
+
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.card-body {
+    background-color: #7e0808;
+}
+
+.btn-custom {
+    background-color:#000000;
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-size:20px;
+    font-weight: 700;
+}
+
+.btn-custom:hover {
+    background-color:#7e0808;
+    color: #ffffff;
+}
+
+h1 {
+    font-family: "Bebas Neue", serif;
+    font-size: 68px;
+    font-weight: 900;
+    color: #7e0808;
+}
+
+h3 {
+    font-family: "Roboto", serif;
+    font-size: 28px;
+    font-weight: 900;
+    font-style: italic;
+    color: #7e0808;
+}
+
+h4 {
+    font-family: "Roboto", serif;
+    font-size: 28px;
+    font-weight: 900;
+    font-style: italic;
+    color: #ffffff;
+}
+
+h6 {
+    font-family: "Alice", serif;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+
+h5 {
+    font-family: "Roboto", serif;
+    font-size: 28px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 28px;
+}
+
+p {
+    font-family: "Quicksand", sans-serif;
+}
